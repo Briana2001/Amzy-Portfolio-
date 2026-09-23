@@ -573,7 +573,7 @@ footer {
 .hero-content,
 .hero-image {
     opacity: 0;
-    animation: pageEnter 0.9s ease forwards;
+    animation: pageEnter 0.8s ease forwards;
 }
 
 .hero-content {
